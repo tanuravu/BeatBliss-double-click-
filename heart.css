@@ -8,7 +8,8 @@ body {
   font-family: 'Oswald', sans-serif;
   overflow: hidden;
   margin: auto;
-  background: linear-gradient(to bottom right, #833ab4, #fd1d1d, #f56040, #fcaf45, #8a3ab9);
+  background: linear-gradient(to bottom right, #833ab4, #fd1d1d, #f56040, #fcaf45, #8a3ab9) no-repeat;
+
 
 }
 .fa-heart {
@@ -22,8 +23,8 @@ h3{
 }
 
 .loveMe {
-  height: 500px;
-  width: 400px;
+  height: 550px;
+  width: 450px;
   border-radius: 10px;
   cursor: pointer;
   max-width: 100%; 
